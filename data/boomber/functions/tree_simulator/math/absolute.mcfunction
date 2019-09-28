@@ -1,0 +1,2 @@
+scoreboard players operation #bb.ts.result bb.variable = #bb.ts.input bb.variable
+execute if score #bb.ts.input bb.variable matches ..-1 run scoreboard players operation #bb.ts.result bb.variable *= #-1 bb.variable

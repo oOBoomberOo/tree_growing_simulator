@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ #boomber:tree_simulator/convert_to_dirt run function boomber:tree_simulator/algorithm/abstract/function/drain_nutrient
