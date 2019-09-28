@@ -7,3 +7,4 @@ scoreboard players operation #bb.ts.iteration bb.variable = #bb.ts.height bb.var
 function boomber:tree_simulator/algorithm/spruce/prepare/y
 
 function boomber:tree_simulator/algorithm/spruce/prepare/log
+function boomber:tree_simulator/algorithm/abstract/cleanup

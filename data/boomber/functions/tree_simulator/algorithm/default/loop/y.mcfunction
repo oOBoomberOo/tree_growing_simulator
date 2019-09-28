@@ -7,7 +7,7 @@ scoreboard players operation #bb.ts.radius bb.variable *= #-1 bb.variable
 scoreboard players operation #bb.ts.radius bb.variable /= #2 bb.variable
 scoreboard players operation #bb.ts.radius bb.variable += #1 bb.variable
 
-scoreboard players operation #bb.ts.iteration bb.calculation = #bb.ts.radius bb.variable
+scoreboard players operation #bb.ts.iteration bb.variable = #bb.ts.radius bb.variable
 function boomber:tree_simulator/algorithm/default/prepare/x
 
 scoreboard players add #bb.ts.y bb.variable 1

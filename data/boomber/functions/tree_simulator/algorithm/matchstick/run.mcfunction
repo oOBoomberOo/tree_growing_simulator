@@ -20,4 +20,4 @@ function boomber:tree_simulator/algorithm/matchstick/prepare/y
 scoreboard players set #bb.ts.log bb.variable 0
 function boomber:tree_simulator/algorithm/matchstick/loop/log
 
-function boomber:tree_simulator/algorithm/matchstick/cleanup
+function boomber:tree_simulator/algorithm/abstract/cleanup
