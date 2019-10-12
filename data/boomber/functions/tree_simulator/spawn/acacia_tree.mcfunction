@@ -42,5 +42,5 @@ execute positioned ~ 250 ~ run function boomber:tree_simulator/math/rand_int/4
 scoreboard players operation #direction_bottom bb.variable = #bb.ts.result bb.variable
 
 execute positioned 0 255 0 run setblock ~ ~ ~ minecraft:acacia_log
-execute positioned 0 254 0 run setblock ~ ~ ~ minecraft:acacia_leaves[persistent=true]
+execute positioned 0 254 0 run setblock ~ ~ ~ minecraft:acacia_leaves
 function boomber:tree_simulator/generator/savanna

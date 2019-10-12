@@ -1,0 +1,1 @@
+execute as @e[type=area_effect_cloud, tag=boomber.tree_simulator.potential_log] at @s run function boomber:tree_simulator/algorithm/abstract/check/log

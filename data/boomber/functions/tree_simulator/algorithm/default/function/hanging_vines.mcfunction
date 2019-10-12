@@ -1,0 +1,1 @@
+summon area_effect_cloud ~ ~ ~ {Tags: ['boomber.tree_simulator.hanging_vines'], Age: 0, Duration: 1}

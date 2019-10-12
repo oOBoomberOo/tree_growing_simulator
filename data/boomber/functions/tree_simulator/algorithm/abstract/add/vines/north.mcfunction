@@ -1,0 +1,1 @@
+setblock ~ ~ ~ minecraft:vine[east=false, west=false, north=true, south=false]

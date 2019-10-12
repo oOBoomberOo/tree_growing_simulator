@@ -1,1 +1,0 @@
-setblock ~ ~ ~ vine[north=true]

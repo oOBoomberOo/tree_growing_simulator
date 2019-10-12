@@ -1,4 +1,4 @@
-scoreboard players operation #bb.ts.iteration bb.variable = #bb.ts.radius bb.variable
+scoreboard players operation #bb.ts.iteration bb.calculation = #bb.ts.radius bb.variable
 function boomber:tree_simulator/algorithm/default/prepare/z
 
 scoreboard players add #bb.ts.x bb.variable 1
